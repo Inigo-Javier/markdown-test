@@ -88,3 +88,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 Or, in pure Markdown, but losing the image sizing and border:
 
 [![Gladiator](maximo-decimo-meridio.jpg)](http://www.youtube.com/watch?v=pcIJ1m9ABhI)
+
+
+
+[![Gladiator](12Gladiator.jpg)](http://www.youtube.com/watch?v=rv1Aw_1rgxA)
+
