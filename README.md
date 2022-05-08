@@ -72,8 +72,8 @@ print('hello world')
 
 <!-- GITHUB MARKDOWN -->
 * [x] tarea 1
-* [] tarea 2
-* [] tarea 3
+* [ ] tarea 2
+* [ ] tarea 3
 * [x] tarea 4
 
 ### YOUTUBE VIDEOS:
