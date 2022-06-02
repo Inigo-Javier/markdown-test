@@ -92,4 +92,12 @@ Or, in pure Markdown, but losing the image sizing and border:
 
 
 [![Gladiator](12Gladiator.jpg)](http://www.youtube.com/watch?v=rv1Aw_1rgxA)
+[![Gladiator](12Gladiator.jpg)](https://youtube.com/clip/Ugkxg9L8Mf9b-SrCuEq8RJQLOgKUnd5sF77q)
+
+
+
+
+
+
+
 
